@@ -18,5 +18,3 @@ Welcome to the Metric to Imperial Unit Converter! This web application provides 
 - HTML
 - CSS
 - JavaScript
-
-Enjoy using the Metric to Imperial Un
